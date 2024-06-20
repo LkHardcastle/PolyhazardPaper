@@ -1,5 +1,5 @@
 using DrWatson
-@quickactivate "Polyhazard"
+@quickactivate "PolyhazardPaper"
 using LinearAlgebra, Distributions, Optim, Random, Combinatorics
 using DataFrames, RCall, Plots, CSV, DataFrames, JLD2, Combinatorics 
 

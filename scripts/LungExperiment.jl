@@ -1,5 +1,5 @@
 using DrWatson
-@quickactivate "Polyhazard"
+@quickactivate "PolyhazardPaper"
 # For src
 using LinearAlgebra, Distributions, Optim, Random, Combinatorics
 # This script 
